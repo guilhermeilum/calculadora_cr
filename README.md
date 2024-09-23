@@ -1,8 +1,10 @@
 # Calculadora de CR
 
-Calculadora de Coeficiente de Rendimento (CR) não oficial para a Ilum.
+Calculadora de Coeficiente de Rendimento (CR), não oficial para a Ilum.
 
-Este código foi originalmente criado pelo usuário **ssssssshai**, e eu atualizei o código e criei a versão executável (.exe) para facilitar seu uso. A ideia e a primeira versão são de autoria dele.
+Os conceitos como descrito no histórico são de A - 10, B - 8 a 9.99, C -6 a 7.99 e D - 0 a 5.99, por conta disso para o cálculo cada conceito foi equivalente à média, portanto A - 10, B - 8.995, C - 6.995, D - 2.995.
+
+Este projeto foi originalmente criado pelo usuário **ssssssshai**, e eu atualizei o código e criei a versão executável (.exe) para facilitar seu uso. A ideia e a primeira versão são de autoria dele.
 
 ## Como usar
 
