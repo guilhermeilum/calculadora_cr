@@ -1,18 +1,22 @@
-# Calculadora de CR
+# Calculadora de Coeficiente de Rendimento (CR) - Ilum
 
-Calculadora de Coeficiente de Rendimento (CR), não oficial para a Ilum.
+Calculadora não oficial do Coeficiente de Rendimento (CR) para a Ilum.
 
-Os conceitos considerados foi<br>
-A: 3;<br>
-B: 2;<br>
-C: 1;<br>
-D: 0.<br>
+Os conceitos considerados são:
+- A: 3 pontos
+- B: 2 pontos
+- C: 1 ponto
+- D: 0 pontos
 
-Este projeto foi originalmente criado pelo usuário **ssssssshai**, e eu atualizei o código e criei a versão executável (.exe) para facilitar seu uso. A ideia e a primeira versão são de autoria dele.
+Este projeto foi originalmente desenvolvido pelo usuário **ssssssshai**. Eu atualizei o código e criei uma versão executável (.exe) para facilitar o uso. A ideia e a primeira versão são de autoria dele.
 
-## Como usar
+## Estrutura dos Arquivos
+O projeto está disponível nos seguintes formatos:
 
-1. Coloque o arquivo pdf do seu histórico escolar no mesmo diretório que o executável ou o código Python.
-2. Execute o programa para calcular seu CR.
+1. **Arquivo .zip**: Contém o executável (.exe) junto com uma pasta de dependências necessárias para a execução. Coloque o histórico em PDF na pasta descompactada para que funcione corretamente.
 
-**Observação:** Não me responsabilizo por possíveis erros no cálculo. Certifique-se de revisar as informações exibidas no terminal.
+2. **Arquivo .exe independente**: Executável que não requer dependências adicionais, mas pode ser ligeiramente mais lento. Coloque o histórico em PDF na mesma pasta para que funcione corretamente.
+
+3. **Arquivo Python**: Contém o código-fonte. Para usá-lo, é necessário instalar as dependências especificadas. Coloque o histórico em PDF na mesma pasta para que funcione corretamente.
+
+**Nota:** Não me responsabilizo por possíveis erros nos cálculos. Revise as informações exibidas no terminal para garantir a precisão dos resultados.
