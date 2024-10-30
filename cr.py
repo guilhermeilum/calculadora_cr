@@ -112,7 +112,7 @@ for dicionario, nota in zip(courses, resultados):
     dicionario["grade"] = nota
 
 # Definição das notas em termos numéricos
-grades = {"A": 10, "B": 8.995, "C": 6.995, "D":2.995}
+grades = {"A": 3, "B": 2, "C": 1, "D":0}
 
 # Cálculo do CR
 total_weighted_grade = sum(grades[course["grade"]] * course["CH"] for course in courses)
